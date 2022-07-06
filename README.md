@@ -1,5 +1,5 @@
 ## Required Technologies
-Your application must make use of the following libraries:
+# application must make use of the following libraries:
 
 1. Postgres for the database
 2. Node/Express 
